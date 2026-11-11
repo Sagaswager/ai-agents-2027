@@ -60,3 +60,65 @@ Every serious deployment keeps one human accountable for each agent. That person
 ---
 
 *Maintained by [Innovators AI Hub](https://innovatorsaihub.com/?utm_source=github&utm_medium=parasite&utm_campaign=2027-employee). We build AI employee teams — voice, chat, research and ops agents with one human accountable per agent. Want the workspace audit we run first? [It is free](https://innovatorsaihub.com/?utm_source=github&utm_medium=parasite&utm_campaign=2027-employee-audit).*
+
+<script type="application/ld+json">
+{
+ "@context": "https://schema.org",
+ "@type": "Article",
+ "headline": "AI Employee vs Hiring in 2027: The Honest Maths",
+ "description": "What an AI employee actually costs and replaces in 2027, where it beats a junior hire, where it loses badly, and the three jobs worth automating first for a small team anywhere in the world.",
+ "url": "https://sagaswager.github.io/ai-agents-2027/ai-employee-vs-hiring-2027.html",
+ "datePublished": "2026-11-11",
+ "dateModified": "2026-11-11",
+ "author": {
+  "@type": "Organization",
+  "name": "Innovators AI Hub",
+  "url": "https://innovatorsaihub.com/"
+ },
+ "publisher": {
+  "@type": "Organization",
+  "name": "Innovators AI Hub",
+  "url": "https://innovatorsaihub.com/"
+ }
+}
+</script>
+<script type="application/ld+json">
+{
+ "@context": "https://schema.org",
+ "@type": "FAQPage",
+ "mainEntity": [
+  {
+   "@type": "Question",
+   "name": "Will it replace my team?",
+   "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "No. It changes the mix: fewer hours on volume, more on judgement. Teams that shrink headcount usually do it by not backfilling, not by firing."
+   }
+  },
+  {
+   "@type": "Question",
+   "name": "Is \"multi-agent\" real?",
+   "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Yes, as a workflow where several narrow agents hand off to each other with a shared record. It is not a single AI with a personality doing your whole company."
+   }
+  },
+  {
+   "@type": "Question",
+   "name": "How long to see a return?",
+   "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "One workflow, 30 days, three numbers. If those three do not move, stop and pick a different workflow."
+   }
+  },
+  {
+   "@type": "Question",
+   "name": "What is the biggest mistake?",
+   "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Buying per department before proving one workflow end to end."
+   }
+  }
+ ]
+}
+</script>
