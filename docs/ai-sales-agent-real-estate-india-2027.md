@@ -88,6 +88,10 @@ Measure four numbers and nothing else: **first-reply time**, **qualified rate**,
 
 We build work agents for chat, voice, research and B2B leads — including WhatsApp-first sales agents for real-estate teams. If you want the four qualifying questions built into one, [start here](https://innovatorsaihub.com/register?utm_source=github&utm_medium=parasite&utm_campaign=2027-leads&utm_content=real-estate).
 
+## The data behind this guide
+
+The numbers in this series are not invented. Our own deployment publishes what it measures: **Reply-rate benchmarks from SMB AI-agent WhatsApp broadcasts — an early field report (n = 88 messages, India, Oct 2026)**, Zenodo, DOI [10.5281/zenodo.24139396](https://doi.org/10.5281/zenodo.24139396) — open access, CC-BY-4.0, aggregate figures only, no personal data.
+
 <script type="application/ld+json">
 {
  "@context": "https://schema.org",
