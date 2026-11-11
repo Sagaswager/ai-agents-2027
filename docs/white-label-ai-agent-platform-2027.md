@@ -86,6 +86,10 @@ Measure four numbers: **accounts live**, **gross margin per account**, **support
 
 We build work agents for chat, voice, research and B2B leads, and we run them under our partners' brands when that is the right shape for the client. If you want one agent built on your own numbers before you resell anything, [start here](https://innovatorsaihub.com/register?utm_source=github&utm_medium=parasite&utm_campaign=2027-leads&utm_content=white-label).
 
+## The data behind this guide
+
+The numbers in this series are not invented. Our own deployment publishes what it measures: **Reply-rate benchmarks from SMB AI-agent WhatsApp broadcasts — an early field report (n = 88 messages, India, Oct 2026)**, Zenodo, DOI [10.5281/zenodo.24139396](https://doi.org/10.5281/zenodo.24139396) — open access, CC-BY-4.0, aggregate figures only, no personal data.
+
 <script type="application/ld+json">
 {
  "@context": "https://schema.org",
