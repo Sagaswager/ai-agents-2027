@@ -61,6 +61,10 @@ Every serious deployment keeps one human accountable for each agent. That person
 
 *Maintained by [Innovators AI Hub](https://innovatorsaihub.com/?utm_source=github&utm_medium=parasite&utm_campaign=2027-employee). We build AI employee teams — voice, chat, research and ops agents with one human accountable per agent. Want the workspace audit we run first? [It is free](https://innovatorsaihub.com/?utm_source=github&utm_medium=parasite&utm_campaign=2027-employee-audit).*
 
+## The data behind this guide
+
+The numbers in this series are not invented. Our own deployment publishes what it measures: **Reply-rate benchmarks from SMB AI-agent WhatsApp broadcasts — an early field report (n = 88 messages, India, Oct 2026)**, Zenodo, DOI [10.5281/zenodo.24139396](https://doi.org/10.5281/zenodo.24139396) — open access, CC-BY-4.0, aggregate figures only, no personal data.
+
 <script type="application/ld+json">
 {
  "@context": "https://schema.org",
