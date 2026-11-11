@@ -37,6 +37,7 @@ Written in 2026, for the tools you will actually buy next year. Global, no affil
 ## Sales and customer records
 
 - [Best AI CRM for Indian SMBs in 2027](ai-crm-indian-smbs-2027.html) — the three products sold as an AI CRM, why most rollouts die before the AI part, and when a shared WhatsApp inbox is the cheaper answer.
+- [AI Sales Agent for Real Estate in India in 2027](ai-sales-agent-real-estate-india-2027.html) — the six jobs AI does well and the one it does badly, real 2027 costs in rupees, and when a WhatsApp-first agent beats a full CRM.
 
 ## Why this exists
 
