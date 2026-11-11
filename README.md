@@ -18,3 +18,6 @@ Google already trusts this domain. That is the whole idea: publish the honest bu
 Written and maintained by [Innovators AI Hub](https://innovatorsaihub.com/?utm_source=github&utm_medium=parasite&utm_campaign=2027-readme).
 
 Corrections welcome — open an issue. If a guide is wrong for your business, that is more useful to us than a star.
+---
+
+*Data behind these guides: our deployment's own field data is published open-access at DOI [10.5281/zenodo.24139396](https://doi.org/10.5281/zenodo.24139396) (WhatsApp broadcast delivery and signup-source benchmarks, n = 88, India, Oct 2026, CC-BY-4.0).*
