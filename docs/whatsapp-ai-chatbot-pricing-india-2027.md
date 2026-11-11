@@ -70,3 +70,73 @@ Month 1: official Cloud API number, a small configured agent on the FAQ set, eve
 ---
 
 *Written by the team at [Innovators AI Hub](https://innovatorsaihub.com/?utm_source=github&utm_medium=parasite&utm_campaign=2027-whatsapp-pricing). We build WhatsApp and LinkedIn AI agents for Indian businesses. If you want the one-page quote checklist we use — the three fees above, plus the ten questions that turn a vendor's number into a comparable one — it is free and needs no call: [get the checklist](https://innovatorsaihub.com/?utm_source=github&utm_medium=parasite&utm_campaign=2027-whatsapp-pricing-checklist).*
+
+<script type="application/ld+json">
+{
+ "@context": "https://schema.org",
+ "@type": "Article",
+ "headline": "WhatsApp AI Chatbot Pricing in India 2027: What You Actually Pay",
+ "description": "A plain-English breakdown of what a WhatsApp AI chatbot costs in India in 2027 — the three separate fees, a worked monthly example, the five things that move your bill, and the quote red flags.",
+ "url": "https://sagaswager.github.io/ai-agents-2027/whatsapp-ai-chatbot-pricing-india-2027.html",
+ "datePublished": "2026-11-11",
+ "dateModified": "2026-11-11",
+ "author": {
+  "@type": "Organization",
+  "name": "Innovators AI Hub",
+  "url": "https://innovatorsaihub.com/"
+ },
+ "publisher": {
+  "@type": "Organization",
+  "name": "Innovators AI Hub",
+  "url": "https://innovatorsaihub.com/"
+ }
+}
+</script>
+<script type="application/ld+json">
+{
+ "@context": "https://schema.org",
+ "@type": "FAQPage",
+ "mainEntity": [
+  {
+   "@type": "Question",
+   "name": "Is there a free way to do this?",
+   "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "The WhatsApp Cloud API has a free tier for a limited number of service conversations a month, and some platforms charge nothing at low volume. Free gets you the channel, not the agent — the AI usage and the setup work are still yours."
+   }
+  },
+  {
+   "@type": "Question",
+   "name": "Why is the marketing message so much more expensive than the reply?",
+   "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Because you are buying the right to start a conversation. Meta prices that higher to keep the channel from becoming a bulk SMS pipe. Use templates for genuine follow-ups, not for re-sending your catalogue."
+   }
+  },
+  {
+   "@type": "Question",
+   "name": "Should I pay an agency or a tool?",
+   "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Tool: cheaper, faster, you configure it. Agency: more money, someone else writes the flows and you inherit their decisions. Pay an agency only when you can answer \"what do I keep if I stop working with you\"."
+   }
+  },
+  {
+   "@type": "Question",
+   "name": "Is GST extra?",
+   "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Indian vendors quote both ways. Ask whether the number is inclusive or exclusive, and whether Meta's USD charges are passed through at cost."
+   }
+  },
+  {
+   "@type": "Question",
+   "name": "What will it cost in 2027?",
+   "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Nobody can tell you Meta's 2027 rate card, and anyone who does is guessing. Structure aside, budget for the platform fee to stay flat and the message + AI lines to track your volume."
+   }
+  }
+ ]
+}
+</script>
