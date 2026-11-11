@@ -60,6 +60,10 @@ Week 1: agent answers FAQs and books slots, everything hands over to a human. We
 
 *Written by the team at [Innovators AI Hub](https://innovatorsaihub.com/?utm_source=github&utm_medium=parasite&utm_campaign=2027-whatsapp). We build WhatsApp and LinkedIn AI agents for Indian businesses — so read the "who should not buy one" section again before you talk to us. If you want the checklist we use when we audit someone's WhatsApp setup, it is free and it does not need a call: [grab the checklist](https://innovatorsaihub.com/?utm_source=github&utm_medium=parasite&utm_campaign=2027-whatsapp-checklist).*
 
+## The data behind this guide
+
+The numbers in this series are not invented. Our own deployment publishes what it measures: **Reply-rate benchmarks from SMB AI-agent WhatsApp broadcasts — an early field report (n = 88 messages, India, Oct 2026)**, Zenodo, DOI [10.5281/zenodo.24139396](https://doi.org/10.5281/zenodo.24139396) — open access, CC-BY-4.0, aggregate figures only, no personal data.
+
 <script type="application/ld+json">
 {
  "@context": "https://schema.org",
