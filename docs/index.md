@@ -34,6 +34,10 @@ Written in 2026, for the tools you will actually buy next year. Global, no affil
 
 - [Best n8n WhatsApp Automation Workflows in 2027](n8n-whatsapp-automation-2027.html) — the three workflows worth building first, where the workflow model breaks, and the honest cost of maintaining one.
 
+## Sales and customer records
+
+- [Best AI CRM for Indian SMBs in 2027](ai-crm-indian-smbs-2027.html) — the three products sold as an AI CRM, why most rollouts die before the AI part, and when a shared WhatsApp inbox is the cheaper answer.
+
 ## Why this exists
 
 Most "best tools 2027" pages are 2026 pages with the year edited. We maintain these properly: what changed, what it costs, and the honest caveats. If something here is wrong for your business, tell us — the corrections are the point.
