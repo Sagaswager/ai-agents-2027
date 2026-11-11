@@ -19,7 +19,6 @@ Written in 2026, for the tools you will actually buy next year. Global, no affil
 
 ## Channels we build for
 
-- [WhatsApp AI Chatbot Pricing in India 2027](whatsapp-ai-chatbot-pricing-india-2027.html) — the three fees, a worked monthly example, and the red flags in a quote.
 - [Best WhatsApp AI Agent Tools for Business in 2027](whatsapp-ai-agent-tools-2027.html) — the five questions that decide if an agent is any good.
 - [Best AI Agent Platform for Indian Businesses in 2027](ai-agent-platform-india-2027.html) — data residency, memory, handoff rules, and the 30-day test.
 - [AI Agents for LinkedIn in 2027](linkedin-ai-agent-2027.html) — the line between writing safely and getting restricted, in one table.
@@ -29,3 +28,25 @@ Written in 2026, for the tools you will actually buy next year. Global, no affil
 Most "best tools 2027" pages are 2026 pages with the year edited. We maintain these properly: what changed, what it costs, and the honest caveats. If something here is wrong for your business, tell us — the corrections are the point.
 
 Maintained by [Innovators AI Hub](https://innovatorsaihub.com/?utm_source=github&utm_medium=parasite&utm_campaign=2027-index) — work agents for chat, voice, video, research and B2B leads.
+
+<script type="application/ld+json">
+{
+ "@context": "https://schema.org",
+ "@type": "Article",
+ "headline": "AI buyer guides 2027 — Innovators AI Hub",
+ "description": "",
+ "url": "https://sagaswager.github.io/ai-agents-2027/index.html",
+ "datePublished": "2026-11-11",
+ "dateModified": "2026-11-11",
+ "author": {
+  "@type": "Organization",
+  "name": "Innovators AI Hub",
+  "url": "https://innovatorsaihub.com/"
+ },
+ "publisher": {
+  "@type": "Organization",
+  "name": "Innovators AI Hub",
+  "url": "https://innovatorsaihub.com/"
+ }
+}
+</script>
