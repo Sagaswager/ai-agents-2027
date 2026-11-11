@@ -90,7 +90,7 @@ The number that decides this is not the subscription. It is **who fixes the work
 
 **Can n8n send the first message to a cold number?** Only with an approved template, and only within Meta's rules. Cold bulk messaging is how numbers get restricted.
 
-**Is n8n better than a readymade WhatsApp AI agent?** For plumbing between tools, yes — you own it. For conversation quality, no. Read [what to actually check in a WhatsApp AI agent](../whatsapp-ai-agent-tools-2027.html) before you decide.
+**Is n8n better than a readymade WhatsApp AI agent?** For plumbing between tools, yes — you own it. For conversation quality, no. Read [what to actually check in a WhatsApp AI agent](whatsapp-ai-agent-tools-2027.html) before you decide.
 
 **What about WhatsApp Business app auto-replies?** Fine for "we are closed", useless for qualification — it has no memory and no branching.
 
@@ -101,7 +101,7 @@ The number that decides this is not the subscription. It is **who fixes the work
 3. Build the follow-up workflow with a double-send guard.
 4. Only then add intent routing — and when you add it, put the conversation agent behind an HTTP node, not inside the graph.
 
-If you would rather buy the agent part than build it, [Innovators AI Hub](https://innovatorsaihub.com/?utm_source=github&utm_medium=parasite&utm_campaign=2027-leads) builds work agents for WhatsApp, voice and B2B leads — and will tell you when a workflow is the cheaper answer. More guides on the [2026-written, 2027-buying index](../index.html).
+If you would rather buy the agent part than build it, [Innovators AI Hub](https://innovatorsaihub.com/?utm_source=github&utm_medium=parasite&utm_campaign=2027-leads) builds work agents for WhatsApp, voice and B2B leads — and will tell you when a workflow is the cheaper answer. More guides on the [2026-written, 2027-buying index](index.html).
 
 <script type="application/ld+json">
 {
