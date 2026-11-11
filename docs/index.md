@@ -70,3 +70,6 @@ Maintained by [Innovators AI Hub](https://innovatorsaihub.com/?utm_source=github
  }
 }
 </script>
+---
+
+*Data behind these guides: our deployment's own field data is published open-access at DOI [10.5281/zenodo.24139396](https://doi.org/10.5281/zenodo.24139396) (WhatsApp broadcast delivery and signup-source benchmarks, n = 88, India, Oct 2026, CC-BY-4.0).*
