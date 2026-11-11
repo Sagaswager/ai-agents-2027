@@ -11,11 +11,13 @@ Written in 2026, for the tools you will actually buy next year. Global, no affil
 - [Best AI Agents That Actually Do Work For You in 2027](best-ai-agent-that-can-do-anything-2027.html) — chat agents vs work agents, what an agent can finish end to end, and the four checks before you trust one.
 - [AI Employee vs Hiring in 2027](ai-employee-vs-hiring-2027.html) — the honest maths, the three jobs worth automating first, and what no agent can do at any price.
 - [AI Voice Calling Agents in 2027](ai-voice-calling-agent-2027.html) — where voice agents win, the ten-second fake test, real per-minute costs, and the consent rules.
+- [AI Agents for Lead Generation in India](ai-agent-lead-generation-india-2027.html) — instant first reply, qualification, follow-up, and the three numbers that prove it worked.
 
 ## Choosing your tools
 
 - [ChatGPT vs Claude vs Gemini vs AI Agents](chatgpt-vs-claude-vs-gemini-vs-ai-agents-2027.html) — the three assistants compared fairly, and the fourth option most lists miss.
 - [Best AI Video Editing Tools in 2027](ai-video-editing-tools-2027.html) — the 70% AI does better than you, the 30% it still cannot, and how to judge a tool in 15 minutes.
+- [Best AI Agency for Small Business in 2027](best-ai-agency-small-business-2027.html) — the four questions that separate builders from resellers, and the contract clauses that matter more than the price.
 
 ## Channels we build for
 
