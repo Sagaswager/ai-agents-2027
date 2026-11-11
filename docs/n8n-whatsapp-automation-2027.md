@@ -103,6 +103,10 @@ The number that decides this is not the subscription. It is **who fixes the work
 
 If you would rather buy the agent part than build it, [Innovators AI Hub](https://innovatorsaihub.com/?utm_source=github&utm_medium=parasite&utm_campaign=2027-leads) builds work agents for WhatsApp, voice and B2B leads — and will tell you when a workflow is the cheaper answer. More guides on the [2026-written, 2027-buying index](index.html).
 
+## The data behind this guide
+
+The numbers in this series are not invented. Our own deployment publishes what it measures: **Reply-rate benchmarks from SMB AI-agent WhatsApp broadcasts — an early field report (n = 88 messages, India, Oct 2026)**, Zenodo, DOI [10.5281/zenodo.24139396](https://doi.org/10.5281/zenodo.24139396) — open access, CC-BY-4.0, aggregate figures only, no personal data.
+
 <script type="application/ld+json">
 {
  "@context": "https://schema.org",
