@@ -58,6 +58,10 @@ One narrow job (book a demo), one language to start, one written script with the
 
 *Maintained by [Innovators AI Hub](https://innovatorsaihub.com/?utm_source=github&utm_medium=parasite&utm_campaign=2027-voice). We build voice calling agents that qualify and book, with disclosure built in and a human on every escalation. Want the script checklist we use? [It is free](https://innovatorsaihub.com/?utm_source=github&utm_medium=parasite&utm_campaign=2027-voice-checklist).*
 
+## The data behind this guide
+
+The numbers in this series are not invented. Our own deployment publishes what it measures: **Reply-rate benchmarks from SMB AI-agent WhatsApp broadcasts — an early field report (n = 88 messages, India, Oct 2026)**, Zenodo, DOI [10.5281/zenodo.24139396](https://doi.org/10.5281/zenodo.24139396) — open access, CC-BY-4.0, aggregate figures only, no personal data.
+
 <script type="application/ld+json">
 {
  "@context": "https://schema.org",
