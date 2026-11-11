@@ -25,6 +25,10 @@ Written in 2026, for the tools you will actually buy next year. Global, no affil
 - [Best AI Agent Platform for Indian Businesses in 2027](ai-agent-platform-india-2027.html) — data residency, memory, handoff rules, and the 30-day test.
 - [AI Agents for LinkedIn in 2027](linkedin-ai-agent-2027.html) — the line between writing safely and getting restricted, in one table.
 
+## For colleges and campuses
+
+- [Best AI Tools for Colleges and Placement Cells in 2027](ai-tools-colleges-placement-cells-2027.html) — recruiter mail, eligibility screening, the chase after silent students, and what must stay human.
+
 ## Why this exists
 
 Most "best tools 2027" pages are 2026 pages with the year edited. We maintain these properly: what changed, what it costs, and the honest caveats. If something here is wrong for your business, tell us — the corrections are the point.
