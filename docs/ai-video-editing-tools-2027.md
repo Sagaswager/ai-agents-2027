@@ -55,6 +55,10 @@ The 2027 direction is agents that take a goal — "cut this into 10 shorts that 
 
 *Maintained by [Innovators AI Hub](https://innovatorsaihub.com/?utm_source=github&utm_medium=parasite&utm_campaign=2027-video). We build work agents that take a video goal and return finished cuts — not another timeline for you to babysit. If you want the workflow checklist we use, [grab it here](https://innovatorsaihub.com/?utm_source=github&utm_medium=parasite&utm_campaign=2027-video-checklist).*
 
+## The data behind this guide
+
+The numbers in this series are not invented. Our own deployment publishes what it measures: **Reply-rate benchmarks from SMB AI-agent WhatsApp broadcasts — an early field report (n = 88 messages, India, Oct 2026)**, Zenodo, DOI [10.5281/zenodo.24139396](https://doi.org/10.5281/zenodo.24139396) — open access, CC-BY-4.0, aggregate figures only, no personal data.
+
 <script type="application/ld+json">
 {
  "@context": "https://schema.org",
