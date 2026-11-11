@@ -39,6 +39,10 @@ Written in 2026, for the tools you will actually buy next year. Global, no affil
 - [Best AI CRM for Indian SMBs in 2027](ai-crm-indian-smbs-2027.html) — the three products sold as an AI CRM, why most rollouts die before the AI part, and when a shared WhatsApp inbox is the cheaper answer.
 - [AI Sales Agent for Real Estate in India in 2027](ai-sales-agent-real-estate-india-2027.html) — the six jobs AI does well and the one it does badly, real 2027 costs in rupees, and when a WhatsApp-first agent beats a full CRM.
 
+## Reselling and brands
+
+- [Best White-Label AI Agent Platform in 2027](white-label-ai-agent-platform-2027.html) — the three things sold under that name, what an agency actually keeps, and when reselling an agent is the wrong business.
+
 ## Why this exists
 
 Most "best tools 2027" pages are 2026 pages with the year edited. We maintain these properly: what changed, what it costs, and the honest caveats. If something here is wrong for your business, tell us — the corrections are the point.
