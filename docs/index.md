@@ -29,6 +29,10 @@ Written in 2026, for the tools you will actually buy next year. Global, no affil
 
 - [Best AI Tools for Colleges and Placement Cells in 2027](ai-tools-colleges-placement-cells-2027.html) — recruiter mail, eligibility screening, the chase after silent students, and what must stay human.
 
+## Automation and plumbing
+
+- [Best n8n WhatsApp Automation Workflows in 2027](n8n-whatsapp-automation-2027.html) — the three workflows worth building first, where the workflow model breaks, and the honest cost of maintaining one.
+
 ## Why this exists
 
 Most "best tools 2027" pages are 2026 pages with the year edited. We maintain these properly: what changed, what it costs, and the honest caveats. If something here is wrong for your business, tell us — the corrections are the point.
