@@ -19,6 +19,7 @@ Written in 2026, for the tools you will actually buy next year. Global, no affil
 
 ## Channels we build for
 
+- [WhatsApp AI Chatbot Pricing in India 2027](whatsapp-ai-chatbot-pricing-india-2027.html) — the three fees, a worked monthly example, and the red flags in a quote.
 - [Best WhatsApp AI Agent Tools for Business in 2027](whatsapp-ai-agent-tools-2027.html) — the five questions that decide if an agent is any good.
 - [Best AI Agent Platform for Indian Businesses in 2027](ai-agent-platform-india-2027.html) — data residency, memory, handoff rules, and the 30-day test.
 - [AI Agents for LinkedIn in 2027](linkedin-ai-agent-2027.html) — the line between writing safely and getting restricted, in one table.
