@@ -69,3 +69,7 @@ Give the agent last season's data, not a demo. Run it on one real drive: ten rec
 ---
 
 *Written by the team at [Innovators AI Hub](https://innovatorsaihub.com/?utm_source=github&utm_medium=parasite&utm_campaign=2027-colleges). We build WhatsApp and email work agents, including for placement cells — read the "who should not buy one" section again before you talk to us. If you want the eligibility-rules worksheet we use in an audit, it is free and needs no call: [get the worksheet](https://innovatorsaihub.com/?utm_source=github&utm_medium=parasite&utm_campaign=2027-colleges-checklist).*
+
+## The data behind this guide
+
+The numbers in this series are not invented. Our own deployment publishes what it measures: **Reply-rate benchmarks from SMB AI-agent WhatsApp broadcasts — an early field report (n = 88 messages, India, Oct 2026)**, Zenodo, DOI [10.5281/zenodo.24139396](https://doi.org/10.5281/zenodo.24139396) — open access, CC-BY-4.0, aggregate figures only, no personal data.
