@@ -4,6 +4,9 @@ title: AI buyer guides 2027 — Innovators AI Hub
 
 # AI buyer guides for 2027
 
+> **Deck:** [Best AI Agent Platform for Indian Businesses 2027](https://sagaswager.github.io/ai-agents-2027/ai-agent-platform-india-2027-deck.html) — 10 slides on the four checks, the three pricing numbers, and the 30-day test.
+
+
 > **Deck:** [AI Employee vs Hiring 2027 — the honest maths](https://sagaswager.github.io/ai-agents-2027/ai-employee-vs-hiring-2027-deck.html) — 10 slides on where an agent wins, where it loses, and the order to automate in.
 
 
