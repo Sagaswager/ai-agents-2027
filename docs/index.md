@@ -4,6 +4,9 @@ title: AI buyer guides 2027 — Innovators AI Hub
 
 # AI buyer guides for 2027
 
+> **Prefer slides?** The same argument as a 10-slide deck: [WhatsApp AI Agent Buyer's Guide 2027](https://sagaswager.github.io/ai-agents-2027/whatsapp-ai-agent-buyers-guide-2027-deck.html) — the three fees, a worked monthly example, the five red flags.
+
+
 Written in 2026, for the tools you will actually buy next year. Global, no affiliate links, no "starting at" pricing, and a section in every guide on when you should **not** buy.
 
 ## Agents that do the work
