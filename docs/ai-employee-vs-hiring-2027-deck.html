@@ -1,0 +1,239 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>AI Employee vs Hiring in 2027 — the honest maths (deck)</title>
+<meta name="description" content="A 10-slide honest maths deck on AI employees vs hiring in 2027: where an agent beats a junior hire, where it loses badly, the three real cost lines, and which job to automate first.">
+<link rel="canonical" href="https://sagaswager.github.io/ai-agents-2027/ai-employee-vs-hiring-2027-deck.html">
+<style>
+  :root{
+    --ink:#101418; --muted:#5b6672; --line:#e2e6ea; --bg:#f7f8f9; --card:#ffffff;
+    --accent:#0f766e; --accent2:#0f766e1a; --warn:#b45309;
+    --font: -apple-system, BlinkMacSystemFont, "Segoe UI", Inter, Roboto, Helvetica, Arial, sans-serif;
+  }
+  *{box-sizing:border-box}
+  html,body{margin:0;padding:0;background:var(--bg);color:var(--ink);font-family:var(--font);-webkit-font-smoothing:antialiased}
+  .deck{max-width:1120px;margin:0 auto;padding:24px 20px 96px}
+  .bar{display:flex;align-items:center;justify-content:space-between;gap:16px;padding:10px 2px;font-size:13px;color:var(--muted)}
+  .bar a{color:var(--accent);text-decoration:none}
+  .slide{background:var(--card);border:1px solid var(--line);border-radius:18px;padding:56px 56px 48px;margin:0 0 22px;min-height:600px;
+         display:flex;flex-direction:column;justify-content:center;box-shadow:0 1px 2px rgba(16,20,24,.04)}
+  .slide[hidden]{display:none}
+  .kicker{font-size:12px;letter-spacing:.14em;text-transform:uppercase;color:var(--accent);font-weight:700;margin:0 0 14px}
+  h1{font-size:52px;line-height:1.06;letter-spacing:-.02em;margin:0 0 18px;font-weight:800}
+  h2{font-size:34px;line-height:1.15;letter-spacing:-.015em;margin:0 0 26px;font-weight:750}
+  h3{font-size:19px;margin:0 0 8px;font-weight:700}
+  p,li{font-size:18px;line-height:1.55;color:#232a31}
+  p.lead{font-size:21px;color:#2b333b}
+  .muted{color:var(--muted)}
+  .big{font-size:76px;font-weight:800;letter-spacing:-.03em;line-height:1;margin:0;color:var(--accent)}
+  .grid2{display:grid;grid-template-columns:1fr 1fr;gap:18px}
+  .grid3{display:grid;grid-template-columns:repeat(3,1fr);gap:18px}
+  .card{border:1px solid var(--line);border-radius:14px;padding:20px;background:#fcfcfd}
+  .card.accentb{background:var(--accent2);border-color:#0f766e33}
+  .card p{font-size:16px;margin:6px 0 0}
+  table{border-collapse:collapse;width:100%;font-size:16px}
+  th,td{text-align:left;padding:12px 14px;border-bottom:1px solid var(--line);vertical-align:top}
+  th{font-size:13px;text-transform:uppercase;letter-spacing:.06em;color:var(--muted);font-weight:700}
+  td strong{font-weight:700}
+  ol,ul{margin:0;padding-left:22px}
+  li{margin:0 0 10px}
+  .flag{display:flex;gap:12px;align-items:flex-start;font-size:17px;margin:0 0 12px}
+  .flag b{color:var(--warn)}
+  .cta{display:inline-block;background:var(--accent);color:#fff;text-decoration:none;font-weight:700;font-size:17px;padding:14px 22px;border-radius:999px;margin-top:22px}
+  .foot{margin-top:auto;padding-top:28px;font-size:13px;color:var(--muted);display:flex;justify-content:space-between;gap:14px;flex-wrap:wrap}
+  .nav{position:fixed;bottom:0;left:0;right:0;background:#fffffff2;border-top:1px solid var(--line);backdrop-filter:blur(8px);padding:10px 18px;display:flex;align-items:center;justify-content:center;gap:14px;font-size:14px}
+  .nav button{border:1px solid var(--line);background:#fff;border-radius:999px;padding:8px 16px;font-size:14px;font-weight:600;cursor:pointer;color:var(--ink);font-family:var(--font)}
+  .nav button:hover{border-color:var(--accent);color:var(--accent)}
+  .nav .dots{display:flex;gap:6px;margin-left:8px}
+  .nav .dot{width:7px;height:7px;border-radius:50%;background:#cbd5da;border:0;padding:0;cursor:pointer}
+  .nav .dot.on{background:var(--accent);transform:scale(1.25)}
+  @media (max-width:820px){
+    h1{font-size:36px}h2{font-size:26px}.slide{padding:32px 22px 28px;min-height:0}
+    .grid2,.grid3{grid-template-columns:1fr}.big{font-size:52px}p,li{font-size:16px}p.lead{font-size:18px}
+  }
+  @media print{
+    body{background:#fff}.slide{border:0;box-shadow:none;page-break-after:always;min-height:0;padding:24px}
+    .slide[hidden]{display:flex!important}.nav,.bar{display:none}
+    @page{size:A4 landscape;margin:12mm}
+  }
+</style>
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"PresentationDigitalDocument",
+ "name":"AI Employee vs Hiring in 2027 — the honest maths (deck)",
+ "description":"A 10-slide deck on what an AI employee actually costs and replaces in 2027: the tasks where it beats a junior hire, the ones it loses badly, the three real cost lines, the order to automate in, and what no price buys.",
+ "inLanguage":"en",
+ "datePublished":"2026-11-12",
+ "url":"https://sagaswager.github.io/ai-agents-2027/ai-employee-vs-hiring-2027-deck.html",
+ "author":{"@type":"Organization","name":"Innovators AI Hub","url":"https://innovatorsaihub.com"},
+ "publisher":{"@type":"Organization","name":"Innovators AI Hub"},
+ "isAccessibleForFree":true,
+ "citation":"https://doi.org/10.5281/zenodo.24139396",
+ "about":["AI agents","hiring","small business automation"]}
+</script>
+</head>
+<body>
+
+<div class="deck">
+  <div class="bar">
+    <span><strong>Innovators AI Hub</strong> · AI employee deck</span>
+    <span>← → to move · <a href="./ai-employee-vs-hiring-2027.html">read the full guide</a></span>
+  </div>
+
+  <section class="slide" id="1">
+    <p class="kicker">The honest maths · 2027</p>
+    <h1>AI Employee<br>vs Hiring</h1>
+    <p class="lead">Where an agent beats a junior hire, where it loses badly, and the order to automate in.</p>
+    <div class="foot"><span>10 slides · reads in 4 minutes</span><span>Written from a live deployment, not a demo</span></div>
+  </section>
+
+  <section class="slide" id="2" hidden>
+    <p class="kicker">The short answer</p>
+    <h2>An "AI employee" is not one thing</h2>
+    <p class="lead">It is a set of <strong>narrow agents</strong>, each with a job description and a review step.</p>
+    <div class="grid2" style="margin-top:26px">
+      <div class="card accentb"><h3>It wins at</h3><p>Volume work with a written process and a checkable output: first-line replies, outbound qualification, research, reporting, first-pass editing.</p></div>
+      <div class="card"><h3>It loses at</h3><p>Anything needing judgement, trust, or a relationship. And anything nobody wrote down — it just makes the mess faster.</p></div>
+    </div>
+    <p class="lead" style="margin-top:24px"><strong>The real question is not "AI or human". It is "which task, and who checks it".</strong></p>
+  </section>
+
+  <section class="slide" id="3" hidden>
+    <p class="kicker">Where the maths works</p>
+    <h2>Beats a human, today</h2>
+    <table>
+      <tr><th>Task</th><th>AI cost model</th><th>Beats a human?</th></tr>
+      <tr><td>First-line inbound replies (chat, WhatsApp, email)</td><td>per conversation</td><td><strong>Yes</strong> — on speed and coverage</td></tr>
+      <tr><td>Outbound qualification calls</td><td>per minute</td><td><strong>Yes</strong> on volume, not on closing</td></tr>
+      <tr><td>B2B lead research and enrichment</td><td>per record</td><td><strong>Yes, clearly</strong></td></tr>
+      <tr><td>Video first-pass editing</td><td>per export</td><td><strong>Yes</strong> on mechanical cuts</td></tr>
+      <tr><td>Weekly reporting and reconciliation</td><td>per run</td><td><strong>Yes</strong>, if the source is clean</td></tr>
+    </table>
+    <div class="foot"><span>Note the shape: volume in, checkable artefact out.</span></div>
+  </section>
+
+  <section class="slide" id="4" hidden>
+    <p class="kicker">Where it loses</p>
+    <h2>Three places no price fixes</h2>
+    <div class="grid3" style="margin-top:8px">
+      <div class="card"><h3>Negotiation</h3><p>Pricing exceptions, discounts, "can you do better". A human holds the line; an agent guesses.</p></div>
+      <div class="card"><h3>Real relationships</h3><p>Promise-making, trust, the awkward conversation that keeps an account.</p></div>
+      <div class="card"><h3>Processes nobody wrote down</h3><p>Automate an undefined rule and you get the mess, faster and more confidently.</p></div>
+    </div>
+    <p class="lead" style="margin-top:26px"><strong>The pattern:</strong> volume + written process + checkable output = automatable this year. Everything else is a human with better tools.</p>
+  </section>
+
+  <section class="slide" id="5" hidden>
+    <p class="kicker">The real cost</p>
+    <h2>Three lines, not one</h2>
+    <div class="grid3">
+      <div class="card accentb"><h3>1. Subscription</h3><p>The headline number — usually the smallest.</p></div>
+      <div class="card accentb"><h3>2. Review time</h3><p>Hours a human spends checking output. In month one this often exceeds the work saved. Budget it or the project dies at week three.</p></div>
+      <div class="card accentb"><h3>3. Fixing the process</h3><p>The agent exposes every undefined rule you have. A feature — and unpaid work.</p></div>
+    </div>
+    <p class="lead" style="margin-top:26px"><strong>Anyone quoting only line one is selling a demo.</strong></p>
+  </section>
+
+  <section class="slide" id="6" hidden>
+    <p class="kicker">Which job first</p>
+    <h2>Not the biggest one</h2>
+    <p class="lead">Pick the task with all four: a written process, a clear output someone can grade, high volume, low consequence if wrong.</p>
+    <div class="grid3" style="margin-top:22px">
+      <div class="card"><p class="big" style="font-size:56px">1</p><h3>Follow-up</h3><p>The people who asked something and never got a second message. Unglamorous, measurable, pays for itself in a month.</p></div>
+      <div class="card"><p class="big" style="font-size:56px">2</p><h3>After-hours first line</h3><p>Replies when nobody is at a desk. The queue that otherwise dies overnight.</p></div>
+      <div class="card"><p class="big" style="font-size:56px">3</p><h3>Research before a call</h3><p>Boring, high-value, easy to grade: did it find the right facts or not.</p></div>
+    </div>
+    <div class="foot"><span>Start with "replace the sales team" and you buy one expensive quarter and a bad taste.</span></div>
+  </section>
+
+  <section class="slide" id="7" hidden>
+    <p class="kicker">What no price buys</p>
+    <h2>An agent cannot…</h2>
+    <ul>
+      <li>Own a relationship or a promise.</li>
+      <li>Decide to break a rule for a good reason.</li>
+      <li>Notice that the whole plan is wrong.</li>
+      <li>Take legal or reputational risk for you.</li>
+    </ul>
+    <p class="lead" style="margin-top:22px">Every serious deployment therefore keeps <strong>one human accountable per agent</strong>.</p>
+    <div class="foot"><span>That is not a limitation of the tool. It is the design.</span></div>
+  </section>
+
+  <section class="slide" id="8" hidden>
+    <p class="kicker">The job that gets created</p>
+    <h2>Read the log. Grade the output. Correct the rule.</h2>
+    <p class="lead">That is the accountable human's job once agents are running — and it is where the money is actually saved.</p>
+    <div class="grid2" style="margin-top:22px">
+      <div class="card"><h3>Not a headcount cut</h3><p>Teams that shrink usually do it by not backfilling, not by firing. The mix changes: fewer hours on volume, more on judgement.</p></div>
+      <div class="card"><h3>Multi-agent, honestly</h3><p>Several narrow agents handing off to each other over a shared record. Not one AI with a personality running your company.</p></div>
+    </div>
+    <div class="foot"><span>One workflow, 30 days, three numbers. If they do not move, stop.</span></div>
+  </section>
+
+  <section class="slide" id="9" hidden>
+    <p class="kicker">The biggest mistake</p>
+    <h2>Buying per department</h2>
+    <p class="lead">Before <strong>one</strong> workflow is proven end to end — measured, graded, corrected — every additional department is a second unfinished project.</p>
+    <div class="grid2" style="margin-top:22px">
+      <div class="card accentb"><h3>Instead</h3><p>One workflow. Thirty days. Three numbers. Then decide what is next with evidence instead of enthusiasm.</p></div>
+      <div class="card"><h3>Our own numbers, published</h3><p>We publish what our deployment measures — broadcast delivery, read receipts, signup attribution — open access, aggregate only.</p></div>
+    </div>
+    <div class="foot"><span>DOI <a href="https://doi.org/10.5281/zenodo.24139396">10.5281/zenodo.24139396</a></span></div>
+  </section>
+
+  <section class="slide" id="10" hidden>
+    <p class="kicker">Verify it yourself</p>
+    <h2>Everything here is checkable</h2>
+    <ul>
+      <li><strong>Full written guide:</strong> <a href="./ai-employee-vs-hiring-2027.html">AI Employee vs Hiring in 2027: The Honest Maths</a>.</li>
+      <li><strong>The data behind this deck:</strong> <a href="https://doi.org/10.5281/zenodo.24139396">DOI 10.5281/zenodo.24139396</a> — open access, CC-BY-4.0, no personal data.</li>
+      <li><strong>All 17 guides + decks:</strong> <a href="./index.html">the index</a>.</li>
+    </ul>
+    <p class="lead" style="margin-top:18px">If you want the workspace audit we run before any of this, that part is free.</p>
+    <a class="cta" href="https://innovatorsaihub.com/?utm_source=deck&utm_medium=parasite&utm_campaign=2027-employee-audit">Get the free audit →</a>
+    <div class="foot"><span>Innovators AI Hub · AI employee teams with one human accountable per agent</span><span>Published 2026-11-12</span></div>
+  </section>
+</div>
+
+<div class="nav">
+  <button id="prev" aria-label="Previous slide">← Prev</button>
+  <span id="count">1 / 10</span>
+  <button id="next" aria-label="Next slide">Next →</button>
+  <span class="dots" id="dots"></span>
+</div>
+
+<script>
+(function(){
+  var slides=[].slice.call(document.querySelectorAll('.slide'));
+  var dotsEl=document.getElementById('dots'), countEl=document.getElementById('count');
+  var i=0;
+  slides.forEach(function(s,n){
+    var d=document.createElement('button');
+    d.className='dot'; d.setAttribute('aria-label','Slide '+(n+1));
+    d.addEventListener('click',function(){go(n);});
+    dotsEl.appendChild(d);
+  });
+  var dots=[].slice.call(dotsEl.children);
+  function go(n){
+    i=Math.max(0,Math.min(slides.length-1,n));
+    slides.forEach(function(s,k){ if(k===i){s.removeAttribute('hidden');} else {s.setAttribute('hidden','');} });
+    dots.forEach(function(d,k){ d.className='dot'+(k===i?' on':''); });
+    countEl.textContent=(i+1)+' / '+slides.length;
+    if(history.replaceState){history.replaceState(null,'','#'+(i+1));} else {location.hash=(i+1);}
+    window.scrollTo({top:0,behavior:'smooth'});
+  }
+  document.getElementById('prev').addEventListener('click',function(){go(i-1);});
+  document.getElementById('next').addEventListener('click',function(){go(i+1);});
+  document.addEventListener('keydown',function(e){
+    if(e.key==='ArrowRight'||e.key==='PageDown'||e.key===' '){e.preventDefault();go(i+1);}
+    if(e.key==='ArrowLeft'||e.key==='PageUp'){e.preventDefault();go(i-1);}
+    if(e.key==='Home'){e.preventDefault();go(0);}
+    if(e.key==='End'){e.preventDefault();go(slides.length-1);}
+  });
+  var h=parseInt((location.hash||'').replace('#',''),10);
+  go(isNaN(h)?0:h-1);
+})();
+</script>
+</body>
+</html>
